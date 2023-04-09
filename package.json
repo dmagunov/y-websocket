@@ -4,6 +4,7 @@
   "description": "Websockets provider for Yjs",
   "main": "./dist/y-websocket.cjs",
   "module": "./src/y-websocket.js",
+  "type": "module",
   "types": "./dist/src/y-websocket.d.ts",
   "sideEffects": false,
   "funding": {
